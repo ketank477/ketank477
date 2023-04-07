@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ketank477
 - 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on 2022
+- 🌱 I’m constantly learning Data Science
 - 📫 How to reach me ketank477@gmail.com
 
 <!---
